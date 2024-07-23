@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="right" style="width:40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seouk812"/>
+  <img align="right" style="width:40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7622"/>
   
   ### 🛠 STUDYING 🛠
   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white" height="22">
