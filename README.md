@@ -4,7 +4,7 @@
   
   <img align="right" style="width:42%" src="https://github-readme-stats.vercel.app/api?username=ss7622&rank_icon=github"/>
 
-  ### 👋 junbeom LEE 👋 
+  ### 👋 Junbeom Lee 👋 
   <a href="https://2junbeom.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a> &nbsp;
 
   🎓 I'm studying Data Science at Sejong University.
