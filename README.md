@@ -2,8 +2,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-    <img style="width:42%" src="https://github-readme-stats.vercel.app/api?username=ss7622&rank_icon=github"/>
-    <img style="width:40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7622"/>
+    <img style="width:80%" src="https://github-readme-stats.vercel.app/api?username=ss7622&rank_icon=github"/>
+    <img style="width:80%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7622"/>
   </div>
 
   <h2>👋 Junbeom Lee 👋</h2>
