@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00CDFF&height=300&section=header&text=Junbeom%20Lee&fontSize=90)
 
-  <div style="display: flex; justify-content: center; align-items: center;>
+<div align="center">
   
   <img align="right" style="width:42%" src="https://github-readme-stats.vercel.app/api?username=ss7622&rank_icon=github"/>
 
