@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img align="right" style="width:20%" src="https://github-readme-stats.vercel.app/api?username=ss7622&rank_icon=github"/>
+  <img align="right" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=ss7622&rank_icon=github"/>
 
   ### 👋 Junbeom Lee 👋 
   <a href="https://2junbeom.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a> &nbsp;
@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="right" style="width:20%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7622"/>
+  <img align="right" style="width:50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7622"/>
   
   ### 🛠 STUDYING 🛠
   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white" height="22">
