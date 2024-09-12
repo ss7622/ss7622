@@ -6,6 +6,7 @@
 
   ### 👋 Junbeom Lee 👋 
   <a href="https://2junbeom.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a> &nbsp;
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongjiyeon315%2Fhit-counter&count_bg=%236667AB&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp
 
   🎓 I'm studying Data Science at Sejong University.
   
