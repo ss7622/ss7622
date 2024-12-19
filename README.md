@@ -22,7 +22,6 @@
   ### 🛠 STUDYING 🛠
   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white" height="22">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="22"/> 
-  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="22"/>
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="22"/> 
