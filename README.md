@@ -6,6 +6,10 @@
 
   ### 👋 Junbeom Lee 👋 
   <a href="https://2junbeom.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a> &nbsp;
+<a href="https://www.rallit.com/hub/resumes/1179513">
+  <img src="https://img.shields.io/badge/Portfolio-A8E6CF?style=for-the-badge&logo=githubpages&logoColor=2F855A">
+</a>
+
 
   🎓 I'm studying Data Science at Sejong University.
   
